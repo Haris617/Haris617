@@ -47,4 +47,5 @@ I also know the basics of **HTML & CSS**, though I’m not an expert yet.
 ---
 
 ## 📫 Connect with Me
-- GitHub: [https://github.com/Haris617](https://github.com/Haris617)  
+- GitHub: [https://github.com/Haris617](https://github.com/Haris617)
+- Email: toughrider617@gmail.com   
