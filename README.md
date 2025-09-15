@@ -30,11 +30,12 @@ Here are some of my highlighted projects (more coming soon 👇):
 
 ---
 
-## 🎯 Goals
-- ✔️ Get stronger at **DSA + Problem Solving**  
-- ✔️ Build **real-world projects** to showcase skills  
-- ✔️ Contribute to **open-source** (future target)  
-- ✔️ Become a professional **Software Engineer**  
+### 🎯 Goals
+
+✅ Get stronger at DSA + Problem Solving  
+✅ Build real-world projects to showcase skills  
+✅ Contribute to open-source (future target)  
+✅ Become a professional Software Engineer
 
 ---
 
