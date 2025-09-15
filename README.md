@@ -41,8 +41,8 @@ Here are some of my highlighted projects (more coming soon 👇):
 ## 🤝 Connect with Me
 📧 **Email:** [hariswasim617@gmail.com](mailto:hariswasim617@gmail.com)  
 🐙 **GitHub:** [Haris617](https://github.com/Haris617)  
-📸 **Instagram:** [@hariswasim617](https://instagram.com/hariswasim617)  
-🌐 *(Portfolio/Blog coming soon...)*  
+[![Instagram](https://img.shields.io/badge/Instagram-%40hariswasim617-pink?logo=instagram&logoColor=white)](https://instagram.com/hariswasim617)  
+🌐 *(Portfolio/Blog coming soon...)*
 
 ---
 
