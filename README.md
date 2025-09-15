@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Haris Wasim  
 
-🎓 **BSCS Student | 2nd Semester | Future Software Engineer**  
+🎓 **BSCS Student | 3rd Semester | Future Software Engineer**  
 💻 Passionate about **C++**, Data Structures, and building cool projects.  
 🚀 Currently leveling up my skills in **OOP, DSA, and Web Basics (HTML & CSS)**.  
 
