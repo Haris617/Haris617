@@ -1,51 +1,48 @@
-# 👋 Hi, I'm Muhammad Haris Wasim
+# 👋 Hey, I'm Haris Wasim  
 
-🎓 BSCS Student | Semester 3 (Just started 2 weeks ago)  
-📍 Lahore, Pakistan  
-
----
-
-## 🧠 About Me
-I love learning and experimenting with programming, especially **C++**.  
-In my free time, I enjoy:  
-- Watching animes 🎬  
-- Playing Role-Playing Games (PC & Mobile) 🎮  
-- Playing Chess ♟️  
-
-I’m currently diving into **Data Structures & Algorithms (DSA)**, and I’ve already completed **Object-Oriented Programming (OOP)**.  
-I also know the basics of **HTML & CSS**, though I’m not an expert yet.  
+🎓 **BSCS Student | 2nd Semester | Future Software Engineer**  
+💻 Passionate about **C++**, Data Structures, and building cool projects.  
+🚀 Currently leveling up my skills in **OOP, DSA, and Web Basics (HTML & CSS)**.  
 
 ---
 
-## 💻 What I’m Learning
-- Data Structures & Algorithms (DSA)  
-- Improving my C++ skills  
-- Exploring new programming concepts step by step  
+## 🌟 About Me
+- 🔹 Strong interest in **problem solving** & software engineering.  
+- 🔹 Love building projects that actually *do something useful* (currently: Zoo Management System 🦁).  
+- 🔹 Always experimenting, learning, and trying to get better at coding.  
+- 🔹 Chess player ♟️ (working my way up on Chess.com).  
+- 🔹 Into **calisthenics** 💪 — grinding pull-ups & handstands.  
 
 ---
 
-## 🌱 My Goals
-- Become a skilled and confident programmer  
-- Build projects that challenge me and help me learn  
-- Share my learning journey on GitHub  
+## 🔨 Tech & Tools
+- **Languages:** C++ (full OOP), HTML, CSS (basics)  
+- **Concepts:** Data Structures, Algorithms, Object-Oriented Programming  
+- **Tools:** Git, GitHub, VS Code  
 
 ---
 
-## 📚 Future Projects / Ideas
-- Singly and Doubly Linked List implementations in C++  
-- Small console-based games in C++  
-- Learning SQL and applying it in mini projects  
-- Eventually, exploring AI and game-related projects  
+## 📌 Projects
+Here are some of my highlighted projects (more coming soon 👇):
+
+- 🦁 [Zoo Management System](https://github.com/Haris617/Zoo-Management-System) — C++ OOP project for managing animals and zoo records.  
+- 📚 [DSA - Linked List](https://github.com/Haris617/DSA-LinkedList) — Practice repo for linked lists and DSA concepts in C++.  
 
 ---
 
-## ⚡ Fun Facts
-- Chess lover ♟️  
-- Anime binge-watcher 🎬  
-- Gamer at heart 🎮  
+## 🎯 Goals
+- ✔️ Get stronger at **DSA + Problem Solving**  
+- ✔️ Build **real-world projects** to showcase skills  
+- ✔️ Contribute to **open-source** (future target)  
+- ✔️ Become a professional **Software Engineer**  
 
 ---
 
-## 📫 Connect with Me
-- GitHub: [https://github.com/Haris617](https://github.com/Haris617)
-- Email: toughrider617@gmail.com   
+## 🤝 Connect with Me
+- 📧 **Email:** hariswasim617@gmail.com  
+- 🐙 **GitHub:** [Haris617](https://github.com/Haris617)  
+- 🌐 *(Portfolio/Blog coming soon...)*  
+
+---
+
+⭐️ *Thanks for visiting! Feel free to check out my repos and drop a star if you like something.*- Email: toughrider617@gmail.com   
