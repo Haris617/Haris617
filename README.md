@@ -7,11 +7,11 @@
 ---
 
 ## 🌟 About Me
-🔹 Strong interest in **problem solving** & software engineering  
-🔹 Love building projects that actually *do something useful*
-🔹 Always experimenting, learning, and improving my coding skills  
-🔹 Chess player ♟️ 
-🔹 Into **calisthenics** 💪 — pull-ups, handstands, and more  
+- Strong interest in **problem solving** & software engineering  
+- Love building projects that actually *do something useful*
+- Always experimenting, learning, and improving my coding skills  
+- Chess player ♟️ 
+- Into **calisthenics** 💪 — pull-ups, handstands, and more  
 
 ---
 
