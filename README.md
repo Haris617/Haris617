@@ -40,9 +40,9 @@ Here are some of my highlighted projects (more coming soon 👇):
 
 ## 🤝 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-hariswasim617%40gmail.com-red?logo=gmail&logoColor=white)](mailto:hariswasim617@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Haris617-black?logo=github&logoColor=white)](https://github.com/Haris617)
-[![Instagram](https://img.shields.io/badge/Instagram-%40hariswasim617-pink?logo=instagram&logoColor=white)](https://instagram.com/hariswasim617)
+- [![Email](https://img.shields.io/badge/Email-hariswasim617%40gmail.com-red?logo=gmail&logoColor=white)](mailto:hariswasim617@gmail.com)
+- [![GitHub](https://img.shields.io/badge/GitHub-Haris617-black?logo=github&logoColor=white)](https://github.com/Haris617)
+- [![Instagram](https://img.shields.io/badge/Instagram-%40hariswasim617-pink?logo=instagram&logoColor=white)](https://instagram.com/hariswasim617)
 ---
 
 ⭐ *Thanks for visiting! Feel free to check out my repos and drop a star if you like something.*
