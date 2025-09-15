@@ -8,9 +8,9 @@
 
 ## 🌟 About Me
 🔹 Strong interest in **problem solving** & software engineering  
-🔹 Love building projects that actually *do something useful* (currently: Zoo Management System 🦁)  
+🔹 Love building projects that actually *do something useful*
 🔹 Always experimenting, learning, and improving my coding skills  
-🔹 Chess player ♟️ (grinding rating on Chess.com)  
+🔹 Chess player ♟️ 
 🔹 Into **calisthenics** 💪 — pull-ups, handstands, and more  
 
 ---
