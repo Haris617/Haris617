@@ -1,48 +1,42 @@
-# 👋 Hey, I'm Haris Wasim  
+# 👋 Hey, I'm Muhammad Haris Wasim  
 
 🎓 **BSCS Student | 3rd Semester | Future Software Engineer**  
-💻 Passionate about **C++**, Data Structures, and building cool projects.  
-🚀 Currently leveling up my skills in **OOP, DSA, and Web Basics (HTML & CSS)**.  
+💻 Passionate about **C++**, **Data Structures**, and building impactful software.
 
 ---
 
-## 🌟 About Me
-- Strong interest in **problem solving** & software engineering  
-- Love building projects that actually *do something useful*
-- Always experimenting, learning, and improving my coding skills  
-- Chess player ♟️ 
-- Into **calisthenics** 💪 — pull-ups, handstands, and more  
+## 🌟 About Me  
+- Focused on mastering **OOP**, **DSA**, and **Web Fundamentals (HTML & CSS)**  
+- Enjoy solving problems and creating projects that *actually matter*  
 
 ---
 
-## 🔨 Tech & Tools
-- **Languages:** C++ (full OOP), HTML, CSS (basics)  
-- **Concepts:** Data Structures, Algorithms, Object-Oriented Programming  
-- **Tools:** Git, GitHub, VS Code  
+## 🔧 Tech Stack  
+**Languages:** C++, HTML, CSS  
+**Concepts:** Object-Oriented Programming, Data Structures, Algorithms  
+**Tools:** VS Code, GitHub
 
 ---
 
-## 📌 Projects
-Here are some of my highlighted projects (more coming soon 👇):
-
-- 🦁 [Zoo Management System](https://github.com/Haris617/Zoo-Management-System) — C++ OOP project for managing animals and zoo records  
-- 📚 [DSA - Linked List](https://github.com/Haris617/DSA-LinkedList) — Practice repo for linked lists and DSA concepts in C++  
+## 📂 Featured Projects  
+- 🦁 [Zoo Management System](https://github.com/Haris617/Zoo-Management-System) — OOP-based C++ project for managing zoo records  
+- 📚 [DSA - Linked List](https://github.com/Haris617/DSA-LinkedList) — Practice repo exploring Linked List implementations  
 
 ---
 
-## 🎯 Goals
-✅ Get stronger at DSA + Problem Solving  
-✅ Build real-world projects to showcase skills  
-✅ Contribute to open-source (future target)  
-✅ Become a professional Software Engineer  
+## 🎯 Goals  
+- Strengthen **Problem Solving & DSA**  
+- Build **Real-world Projects**  
+- Contribute to **Open Source**  
+- Grow into a **Professional Software Engineer**  
 
 ---
 
-## 🔗 Connect with Me  
-  - Email: [toughrider617@gmail.com](mailto:toughrider617@gmail.com)  
-  - LinkedIn: [linkedin.com/in/haris-wasim-800647295](https://www.linkedin.com/in/haris-wasim-800647295/)  
-  - Instagram: [instagram.com/hariswasim617](https://www.instagram.com/hariswasim617/)
-  
+## 📫 Connect with Me  
+📧 [toughrider617@gmail.com](mailto:toughrider617@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/haris-wasim-800647295/)  
+📸 [Instagram](https://www.instagram.com/hariswasim617/)
+
 ---
 
-⭐ *Thanks for visiting! Feel free to check out my repos and drop a star if you like something.*
+⭐ *Thanks for visiting! Drop a star if you like my projects — it keeps me motivated!*
