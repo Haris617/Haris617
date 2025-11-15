@@ -14,15 +14,8 @@
 ## 🔧 Tech Stack  
 **Languages:** C++, HTML, CSS  
 **Concepts:** Object-Oriented Programming, Data Structures, Algorithms  
-**Tools:** VS Code, GitHub
+**Tools:** VS 2026, GitHub
 
----
-
-## 📂 Featured Projects  
-- 🦁 [Zoo Management System](https://github.com/Haris617/Zoo-Management-System) — OOP-based C++ project for managing zoo records  
-- 📚 [DSA - Linked List](https://github.com/Haris617/DSA-LinkedList) — Practice repo exploring Linked List implementations  
-
----
 
 ## 🎯 Goals  
 - Strengthen **Problem Solving & DSA**  
