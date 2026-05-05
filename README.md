@@ -119,16 +119,9 @@
 </table>
 
 ---
-
 ## GitHub Analytics
 
 <div align="center">
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haris617&theme=tokyonight" alt="GitHub stats" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haris617&theme=tokyonight" alt="Top languages by repo" />
-
-<br />
-<br />
 
 <img width="68%" src="https://streak-stats.demolab.com?user=Haris617&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
